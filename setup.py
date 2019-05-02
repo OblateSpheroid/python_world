@@ -8,7 +8,7 @@ setup(
     author_email="ceddlyburge@gmail.com",
     description="A function that returns 'world'",
     url="https://github.com/ceddlyburge/python_world",
-    requires = ['numpy', 'pandas'],
+    install_requires = ['numpy', 'pandas'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
